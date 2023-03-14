@@ -15,7 +15,7 @@ Forked to replace the word lazy, because it shows up in the title of the termina
 
 - Quiet flag, or default selection after timeout (ain't nobody got time for entering text).
 - Minimize script condescension (maybe having a chatty screen is a good thing).
-- Add some "oooooo......" status lines, I really miss that style of console output from the ages ago.
+- Add some "oooooo......" status lines, I really miss that style of console output from olden times.
 - I really like some of the ideas from tsouanas/lookbusy.
 
 ## How to use?
