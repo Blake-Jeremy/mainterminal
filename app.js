@@ -1,3 +1,3 @@
 //Main Entrypoint
-const lazyterminal = require("./lazyterminal");
-lazyterminal.startApp();
+const mainterminal = require("./mainterminal");
+mainterminal.startApp();

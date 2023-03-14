@@ -1,11 +1,11 @@
 {
-  "name": "lazyterminal",
+  "name": "mainterminal",
   "version": "2.0.0",
   "description": "This package will fake your activity by printing random messages into the Terminal and make it look like you're compiling, installing or debugging some important sh*t",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lazyterminal": "node app.js"
+    "mainterminal": "node app.js"
   },
   "repository": {
     "type": "git",

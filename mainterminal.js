@@ -339,5 +339,5 @@ const mainterminal = {
 
 
 //Of course, we need to export :)
-module.exports =  lazyterminal
+module.exports =  mainterminal
 
