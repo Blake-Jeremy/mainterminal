@@ -14,7 +14,7 @@ var readline = require("readline");
  *
  * @return object
 */
-const lazyterminal = {  
+const mainterminal = {  
 
     /**
      * All possible answers to user prompt
