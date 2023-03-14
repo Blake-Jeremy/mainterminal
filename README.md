@@ -16,7 +16,7 @@ Forked to hide the word lazy, because it shows up in the title of the terminal/c
 Dependencies:
 Node.js
 
-- Stage files in folder mainterminal somewhere on local drive (C:\temp\mainterminal)
+- Stage files in folder mainterminal somewhere on local drive (ex: C:\temp\mainterminal)
 - Open CMD prompt
 - Change to parent directory (ex: C:\temp)
 - Run the following
